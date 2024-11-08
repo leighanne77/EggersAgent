@@ -1,3 +1,5 @@
+When all clear on the unit and integration testing (after November 10)
+
 Set Up: Clone this repo then...
 
 1. Get your anthropic key at https://www.anthropic.com/
